@@ -1,5 +1,7 @@
 # Olá, me chamo David Brito de Jesus 👋
 
+![Imagem One Piece](https://i.pinimg.com/originals/33/2a/1a/332a1a4d8c0f6b40fe74abb235b2250e.gif)
+
 🔧 Atualmente trabalhando na RealsBet, no setor de analista de suporte.  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.  
 💻 Aprendendo desenvolvimento Web, APIs e banco de dados.  
